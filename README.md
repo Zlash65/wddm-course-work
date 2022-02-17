@@ -2,6 +2,8 @@
 
 This repository will maintain all the assignments and projects for all the courses across all semesters.
 
+[Current assignment info here](https://github.com/Zlash65/wddm-course-work/tree/main/Tools%20and%20Workflow%20for%20the%20Web%20-%20WDDM-115/assignment-2)
+
 <br/>
 
 ## Courses
