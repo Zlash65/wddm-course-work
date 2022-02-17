@@ -1,7 +1,8 @@
 # Web Design and Development course
 
-Assignments and Projects for the course will be maintained in this repository.
+This repository will maintain all the assignments and projects for all the courses across all semesters.
 
+<br/>
 
 ## Courses
 
